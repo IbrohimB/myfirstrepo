@@ -46,7 +46,8 @@ android {
     }
     productFlavors {
     }
-    namespace 'com.example.android.navigation'
+    //namespace 'com.example.android.navigation'
+
 }
 
 dependencies {
